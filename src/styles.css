@@ -15,6 +15,10 @@ body {
 	font-size: calc(10px + 2vmin);
 }
 
+.text-center {
+	text-align: center;
+}
+
 .button {
 	background-color: #61dafb;
 	border: 1px solid #61dafb;
